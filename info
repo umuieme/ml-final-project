@@ -1,0 +1,26 @@
+team_id_home	Unique ID for the home team.
+team_abbreviation_home	Short abbreviation (e.g., "LAL").
+team_name_home	Full name of the home team.
+matchup_home	Shows matchup info (e.g., "LAL vs BOS").
+wl_home	Win ("W") or Loss ("L") for home team.
+min	Total minutes played (usually 240 in regulation).
+fgm_home	Field Goals Made.
+fga_home	Field Goals Attempted.
+fg_pct_home	Field Goal Percentage.
+fg3m_home	3-Point Field Goals Made.
+fg3a_home	3-Point Field Goals Attempted.
+fg3_pct_home	3-Point FG Percentage.
+ftm_home	Free Throws Made.
+fta_home	Free Throws Attempted.
+ft_pct_home	Free Throw Percentage.
+oreb_home	Offensive Rebounds.
+dreb_home	Defensive Rebounds.
+reb_home	Total Rebounds.
+ast_home	Assists.
+stl_home	Steals.
+blk_home	Blocks.
+tov_home	Turnovers.
+pf_home	Personal Fouls.
+pts_home	Total Points Scored.
+plus_minus_home	Plus/Minus value when the player/team was on the court.
+video_available_home	1 if video of the game is available, 0 if not.
